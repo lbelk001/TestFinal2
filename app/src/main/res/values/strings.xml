@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Keep Yo Self In Check</string>
+    <string name="Welcome">You are one busy person!</string>
+    <string name="Welcome2">Keep Yo Self In Check here</string>
+    <string name="meetings">Meetings</string>
+    <string name="to_do_list">To-Do List</string>
+    <string name="items_to_buy">Items To Buy</string>
+    <string name="view_your_chaos">View Your Chaos :</string>
+</resources>
